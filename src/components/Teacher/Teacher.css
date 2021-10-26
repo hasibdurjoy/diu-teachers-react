@@ -1,0 +1,13 @@
+.teacher{
+    border-radius: 20px;
+    background: rgb(111,237,75);
+    background: linear-gradient(180deg, rgba(111,237,75,0.31416316526610644) 21%, rgba(84,181,74,0.0760679271708683) 93%);
+}
+.teacher:hover {
+    transform: scale(1.1);
+    transition: transform ease-in-out 2s;
+}
+.teacher img{
+    padding: 10px;
+    border-radius: 20px;
+}
